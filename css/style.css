@@ -128,7 +128,8 @@ width:100%;
 }
 .headder-contact {
 padding: 1em 3em;
-background:#24c8a6;
+background:white;
+
 }
 .info-contact-agile ul li{
 display:inline-block;
@@ -181,7 +182,7 @@ z-index: 999;
 h1 a.navbar-brand {
 padding-top: 10px;
 font-size: 42px;
-color:rgb(185, 141, 74);
+
 text-transform: uppercase;
 font-weight:600;
 letter-spacing: 2px;
@@ -699,6 +700,7 @@ font-size: 60px;
 }
 h1 a.navbar-brand {
 font-size: 40px;
+color: rgb(114, 92, 44);
 }
 .slider-info h4 {
 padding-bottom: 10px;
