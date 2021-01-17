@@ -81,6 +81,8 @@ letter-spacing: 3px;
 font-weight: 700;
 text-transform: uppercase;
 }
+
+
 .title-sub p,.info-sub-w3 p,.blog-txt-info p,.bottom-para p{
 font-size: 14px;
 color: #000;
@@ -464,7 +466,7 @@ border: 4px solid #d24055;
 /*-- //banner --*/
 /*-- about --*/
 .info-sub-w3 h5 ,.wthree-left-right h4{
-color:#24c8a6;
+color:rgb(153, 124, 62);
 font-size:19px;
 text-transform: uppercase;
 line-height:40px;
@@ -1275,6 +1277,7 @@ font-size: 23px;
 width: 51%;
 left: 26%;
 }
+
 }
 /*--//responsive--*/
 /*-- //to-top --*/
